@@ -103,6 +103,12 @@ To run the project, execute the following command:
 - Twitter: [@twitterhandle](https://twitter.com/Ayomide_S_E_25)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ayomide-sunday-emmanuel/)
 
+👤 **Khanh**
+
+- GitHub: [khanh-devos](https://github.com/khanh-devos)
+- Twitter: [@khanhror](https://twitter.com/home?lang=en)
+- LinkedIn: [Khanh RoR](https://www.linkedin.com/in/khanh-dom/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
